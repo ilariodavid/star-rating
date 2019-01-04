@@ -1,0 +1,30 @@
+{
+  "name": "star-rating",
+  "version": "0.0.0",
+  "description": "Simple Star Rating SVG Framework",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/statelessbr/star-rating.git"
+  },
+  "keywords": [
+    "npm",
+    "star",
+    "rating",
+    "svg"
+  ],
+  "author": "Ilario David",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/statelessbr/star-rating/issues"
+  },
+  "homepage": "https://github.com/statelessbr/star-rating#readme"
+}
